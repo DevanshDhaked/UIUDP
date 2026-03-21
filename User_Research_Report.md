@@ -52,28 +52,23 @@ Synthetic personas allow rapid exploration of edge cases and diverse user contex
 
 ## <u>**Table of Contents**</u>
 
-1. [Research Methodology](#research-methodology) .......................... Page 2
-
-2. [Sampling Matrix](#sampling-matrix) .......................... Page 4
-
-3. [Target User Personas](#1-target-user-personas) .......................... Page 5
-   - [Persona 1: The Data-Driven Professional](#persona-1-the-data-driven-professional) .......................... Page 5
-   - [Persona 2: The Cultural Navigator](#persona-2-the-cultural-navigator-primary-persona) .......................... Page 6
-   - [Persona 3: The Resourceful Worker](#persona-3-the-resourceful-worker) .......................... Page 6
-
-4. [Synthesis of Research Findings](#2-synthesis-of-research-findings) .......................... Page 7
-   - [A. Key Pains](#a-key-pains-the-emotional--physical-toll) .......................... Page 7
-   - [B. Key Gains](#b-key-gains-the-desired-outcomes) .......................... Page 7
-   - [C. Behavioural Patterns](#c-behavioural-patterns) .......................... Page 8
-   - [D. Major Pain Points](#d-major-pain-points-ranked-by-criticality) .......................... Page 8
-
-5. [Actionable Feature Recommendations](#3-actionable-feature-recommendations) .......................... Page 9
-
-6. [Feature Prioritization](#feature-prioritization) .......................... Page 10
-
-7. [Limitations & Reflection](#limitations--reflection) .......................... Page 11
-
-8. [User Interview Log](#5-user-interview-log-16-participants) .......................... Page 12
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#research-methodology">1. Research Methodology</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">2</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#sampling-matrix">2. Sampling Matrix</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">4</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#1-target-user-personas">3. Target User Personas</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-1-the-data-driven-professional">Persona 1: The Data-Driven Professional</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-2-the-cultural-navigator-primary-persona">Persona 2: The Cultural Navigator</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">6</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-3-the-resourceful-worker">Persona 3: The Resourceful Worker</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">6</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#2-synthesis-of-research-findings">4. Synthesis of Research Findings</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#a-key-pains-the-emotional--physical-toll">A. Key Pains</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#b-key-gains-the-desired-outcomes">B. Key Gains</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#c-behavioural-patterns">C. Behavioural Patterns</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">8</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#d-major-pain-points-ranked-by-criticality">D. Major Pain Points</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">8</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#3-actionable-feature-recommendations">5. Actionable Feature Recommendations</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">9</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#feature-prioritization">6. Feature Prioritization</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">10</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#limitations--reflection">7. Limitations & Reflection</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">11</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#5-user-interview-log-16-participants">8. User Interview Log</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">12</td></tr>
+</table>
 
 </div>
 
@@ -290,9 +285,13 @@ Research began with a focus on Technical UX (making charts clearer). As the pool
 
 ## Persona Description Document
 
+[Persona Description (GitHub PDF)](https://github.com/DevanshDhaked/UIUDP/blob/main/Persona_Descriptions.pdf)
+
 [Persona Description (Google Drive)](https://drive.google.com/file/d/1lCh_WQAgoYqEtSowZZNjeBlKNNeHE-Id/view?usp=sharing)
 
 ## Interview Transcripts Document
+
+[Interview Transcripts (GitHub PDF)](https://github.com/DevanshDhaked/UIUDP/blob/main/Participant_Interview_Transcripts.pdf)
 
 [Interview Transcripts (Google Drive)](https://drive.google.com/file/d/1jvW5Elj8pCZSg1KcVwkBPn9oV8KI_Xpo/view?usp=sharing)
 
