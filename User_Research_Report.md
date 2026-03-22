@@ -29,6 +29,7 @@ Our goal is to understand the daily habits of first-time mothers how they track 
 
 ---
 
+<a id="research-methodology"></a>
 ## <u>**Research Methodology**</u>
 
 **Research Approach:** Synthetic User Simulation (16 Profiles)  
@@ -55,19 +56,19 @@ Synthetic personas allow rapid exploration of edge cases and diverse user contex
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#research-methodology">1. Research Methodology</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">2</td></tr>
   <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#sampling-matrix">2. Sampling Matrix</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">4</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#1-target-user-personas">3. Target User Personas</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#3-target-user-personas">3. Target User Personas</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
   <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-1-the-data-driven-professional">Persona 1: The Data-Driven Professional</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-2-the-cultural-navigator-primary-persona">Persona 2: The Cultural Navigator</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">6</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-3-the-resourceful-worker">Persona 3: The Resourceful Worker</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">6</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#2-synthesis-of-research-findings">4. Synthesis of Research Findings</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-2-the-cultural-navigator-primary-persona">Persona 2: The Cultural Navigator</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#persona-3-the-resourceful-worker">Persona 3: The Resourceful Worker</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">5</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#4-synthesis-of-research-findings">4. Synthesis of Research Findings</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
   <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#a-key-pains-the-emotional--physical-toll">A. Key Pains</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
   <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#b-key-gains-the-desired-outcomes">B. Key Gains</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#c-behavioural-patterns">C. Behavioural Patterns</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">8</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#d-major-pain-points-ranked-by-criticality">D. Major Pain Points</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">8</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#3-actionable-feature-recommendations">5. Actionable Feature Recommendations</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">9</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#feature-prioritization">6. Feature Prioritization</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">10</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#limitations--reflection">7. Limitations & Reflection</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">11</td></tr>
-  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#5-user-interview-log-16-participants">8. User Interview Log</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">12</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#c-behavioural-patterns">C. Behavioural Patterns</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="#d-major-pain-points-ranked-by-criticality">D. Major Pain Points</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">7</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#5-actionable-feature-recommendations">5. Actionable Feature Recommendations</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">8</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#feature-prioritization">6. Feature Prioritization</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">9</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#limitations--reflection">7. Limitations & Reflection</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">10</td></tr>
+  <tr style="border: none;"><td style="border: none; padding: 0.1em 0;"><a href="#8-user-interview-log-16-participants">8. User Interview Log</a></td><td style="text-align: right; border: none; padding: 0.1em 0;">11</td></tr>
 </table>
 
 </div>
@@ -76,6 +77,7 @@ Synthetic personas allow rapid exploration of edge cases and diverse user contex
 
 <div style="page-break-after: always;"></div>
 
+<a id="sampling-matrix"></a>
 ## <u>**Sampling Matrix**</u>
 
 | Context | Education Level | City | Key Psychographics | Profile |
@@ -101,10 +103,12 @@ Synthetic personas allow rapid exploration of edge cases and diverse user contex
 
 <div style="page-break-after: always;"></div>
 
+<a id="3-target-user-personas"></a>
 ## <u>**3. Target User Personas**</u>
 
 To address the diversity found in the research, three distinct personas were developed to represent the spectrum of technological, cultural, and economic needs.
 
+<a id="persona-1-the-data-driven-professional"></a>
 ### <u>**Persona 1: The Data-Driven Professional**</u>
 > *"Knowledge is control. I need metrics, not metaphors."*
 
@@ -117,6 +121,7 @@ To address the diversity found in the research, three distinct personas were dev
 *   **Morning:** Begins a high-pressure 10-hour shift at a tech firm, utilizing their commute to listen to medical podcasts or read peer-reviewed journals on a tablet.
 *   **Afternoon:** Spends the workday primarily sedentary at a desk, receiving automated health alerts from a smartwatch regarding resting heart rate spikes.
 *   **Evening:** Logs clinical data and ultrasound scans into private spreadsheets or shared portals to keep long-distance partners or medical providers informed.
+<a id="persona-2-the-cultural-navigator-primary-persona"></a>
 ### <u>**Persona 2: The Cultural Navigator (Primary Persona)**</u>
 > *"I want my doctor’s safety and my family’s blessing, but I often have to hide one from the other."*
 
@@ -129,6 +134,7 @@ To address the diversity found in the research, three distinct personas were dev
 *   **Morning:** Manages the operations of a local boutique or business while navigating the domestic expectations of a multi-generational household.
 *   **Afternoon:** Carves out "stealth" windows to search for pregnancy symptoms in their local language, often locking themselves in a bedroom or office to hide their phone screen from judging elders.
 *   **Evening:** Participates in large family meals where they must carefully balance following medical prescriptions in secret while appearing to comply with traditional dietary advice from family.
+<a id="persona-3-the-resourceful-worker"></a>
 ### <u>**Persona 3: The Resourceful Worker**</u>
 > *"I need information that is fast, free, and speaks my language."*
 
@@ -147,26 +153,31 @@ To address the diversity found in the research, three distinct personas were dev
 
 <div style="page-break-after: always;"></div>
 
+<a id="4-synthesis-of-research-findings"></a>
 ## <u>**4. Synthesis of Research Findings**</u>
 
+<a id="a-key-pains-the-emotional--physical-toll"></a>
 ### <u>**A. Key Pains (The Emotional & Physical Toll)**</u>
 *   **Information Tug-of-War:** 80% of users suffer from “advice friction”—the stress of choosing between clinical prescriptions and cultural traditions.
 *   **The “Jargon Wall”:** Alienation caused by English-only medical terms, leading users to abandon searches.
 *   **Privacy Paranoia:** A constant need to hide digital activity (locking doors, private windows) to avoid family judgment.
 *   **Professional Fragility:** Fear of losing career momentum (High-income) or being fired (Low-income) due to pregnancy.
 
+<a id="b-key-gains-the-desired-outcomes"></a>
 ### <u>**B. Key Gains (The Desired Outcomes)**</u>
 *   **2 AM Reassurance:** Immediate, non-judgmental AI support for late-night symptom anxiety.
 *   **The “Digital Bridge”:** Shared portals that help long-distance partners feel physically present.
 *   **Cultural Validation:** Feeling “seen” via local metaphors (fruits like mangoes/dates) and traditional practices.
 *   **Financial Navigation:** Discovering government schemes or cost-saving community tips.
 
+<a id="c-behavioural-patterns"></a>
 ### <u>**C. Behavioural Patterns**</u>
 *   **Voice-First Navigation:** Heavy reliance on microphone buttons and voice notes due to literacy or labor constraints.
 *   **Visual Benchmarking:** Tracking progress through fetal-size imagery rather than technical text.
 *   **“Stealth” Usage Cycles:** Browsing in "safe windows" (commutes, bathrooms) to maintain privacy.
 *   **Algorithm over Anecdote:** Professional users prioritize automated dashboards over social forums.
 
+<a id="d-major-pain-points-ranked-by-criticality"></a>
 ### <u>**D. Major Pain Points (Ranked by Criticality)**</u>
 
 | Rank | Pain Point | Impacted Users | Criticality |
@@ -180,6 +191,7 @@ To address the diversity found in the research, three distinct personas were dev
 
 <div style="page-break-after: always;"></div>
 
+<a id="5-actionable-feature-recommendations"></a>
 ## <u>**5. Actionable Feature Recommendations**</u>
 
 ### Feature 1: The “Tradition-Science Bridge” (AI Explainer)
@@ -206,6 +218,7 @@ To address the diversity found in the research, three distinct personas were dev
 
 <div style="page-break-after: always;"></div>
 
+<a id="feature-prioritization"></a>
 ## <u>**Feature Prioritization**</u>
 
 ### Priority Matrix: Impact vs. Feasibility
@@ -236,6 +249,7 @@ To address the diversity found in the research, three distinct personas were dev
 
 <div style="page-break-after: always;"></div>
 
+<a id="limitations--reflection"></a>
 ## <u>**Limitations & Reflection**</u>
 
 ### Evolution of Insights
@@ -251,6 +265,7 @@ Research began with a focus on Technical UX (making charts clearer). As the pool
 
 <div style="page-break-after: always;"></div>
 
+<a id="8-user-interview-log-16-participants"></a>
 ## <u>**8. User Interview Log (16 Participants)**</u>
 
 ### Questionnaire Guide
